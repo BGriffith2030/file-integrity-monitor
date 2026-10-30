@@ -1,0 +1,6 @@
+Server notes, October 2026
+
+- Patch window is the second Tuesday of the month.
+- Backups run nightly at 2 AM and keep seven days.
+- The printer on the second floor jams if you look at it wrong.
+- Call the vendor before changing the firewall rules.
