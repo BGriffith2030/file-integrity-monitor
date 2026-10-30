@@ -1,0 +1,8 @@
+# Demo application configuration
+# Used by the File Integrity Monitor demo. Edit this file, then run a check.
+app_name = Inventory Portal
+environment = production
+port = 8080
+debug = false
+log_level = INFO
+session_timeout_minutes = 30
